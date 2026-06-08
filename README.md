@@ -2,7 +2,7 @@
 
 Data cleaning and exploratory analysis of global life-expectancy data — **193 countries, 2007–2022** — built entirely in **MySQL**. A pure-SQL showcase: take a messy public-health dataset to an analysis-ready state, then surface what's actually associated with a long life.
 
-**▶ [Read the full case study](ADD-YOUR-NOTION-LINK)** — the polished write-up with every query, the before/after screenshots, and the methodology notes.
+**▶ [Read the full case study](https://aboard-aftershave-7a6.notion.site/World-Life-Expectancy-What-Drives-a-Long-Life-37766a9c434c811bbd9edfb906e8d78d)** — the polished write-up with every query, the before/after screenshots, and the methodology notes.
 
 <p align="center">
   <img src="screenshots/WorldLifeExpectancy_Infographic.jpg" alt="What drives a long life? — World life expectancy infographic" width="600">
